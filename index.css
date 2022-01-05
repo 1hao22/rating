@@ -1,0 +1,78 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+    background-color: #DDF0F2;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1194px;
+    height: 834px;
+}
+
+.tittle{
+    color: white;
+    font-size: 52px;
+    position: absolute;
+    top: 26px;
+    left: 150px;
+}
+.lastPage{
+    position: absolute;
+    left: 27px;
+    top: 74px;    
+}
+.home{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.box{
+    position: absolute;
+    top: 225px;
+    left: 57px;
+}
+.class{
+    color:rgb(52, 52, 52) ;
+    font-size: 45px;
+    line-height: 103px;
+    position: absolute;
+    top: 205px;
+    left: 250px;
+    width: 200px;
+    letter-spacing: 2px;
+}
+.getnumber{
+    color:rgb(52, 52, 52) ;
+    font-size: 45px;
+    line-height: 103px;
+    position: absolute;
+    top: 205px;
+    left: 450px;
+    width: 120px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.point{
+    color:rgb(52, 52, 52) ;
+    font-size: 45px;
+    line-height: 103px;
+    position: absolute;
+    top: 205px;
+    left: 825px;
+    width: 120px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.numbers1{
+    color:rgb(52, 52, 52) ;
+    font-size: 45px;
+    line-height: 103px;
+    position: absolute;
+    top: 205px;
+    left: 950px;
+    width: 120px;
+    letter-spacing: 7px;
+    font-weight: 500;
+}
